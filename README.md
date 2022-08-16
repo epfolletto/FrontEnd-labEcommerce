@@ -5,26 +5,14 @@ E-commerce ShirtX
 [Clique aqui!](https://shirtx-alves.surge.sh/)
 
 # `Descrição`
-O Projeto LabeFoods foi desenvolvido como projeto final de Front End dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a API labeFoods, que contém informações relacionadas ao desenvolvimento de uma aplicação que simula um aplicativo semelhante ao conhecido app iFood. Este projeto foi baseado no layout layout FutureEats.
-</br>
-A documentação da API pode ser encontrada [aqui](https://documenter.getpostman.com/view/7549981/SWTEdGtT)
-</br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-labe-food5)
-
-# Descrição
-O site ShirtX é um E-commerce de vendas de camisas e camisetas com a temática de astronomia, com as opções de filtragem por valor mínimo e máximo, além de filtragem por nome.
-O site possui também a opção de adicionar ao carrinho de compras, onde é possível excluir os itens e também é apresentado o valor total destes.
+O Projeto LabEcommerce foi desenvolvido como uma atividade do dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em um E-commerce de vendas de camisas e camisetas com a temática de astronomia, com as opções de filtragem por valor mínimo e máximo, além de filtragem por nome. O site possui também a opção de adicionar ao carrinho de compras, onde é possível excluir os itens e também é apresentado o valor total destes.
 
 # `Modo de usar`
-Ao iniciar a aplicação o usuário é direcionado para a tela de Login. Nesta tela, o usuário pode efetuar seu login ou então se inscrever na plataforma, criando um usuário com nome, email, senha e dados de endereço.
+No lado esquerdo o usuário pode filtrar os produtos por preço mínimo, preço máximo e também buscar por nome. Existe também a opção de order os produtos por order crescente ou decrescente de preço.
 </br>
-Após efetuar login, o usuário é redirecionado para a página de feed, onde poderá escolher entre diferentes tipos de restaurantes, podendo filtrar por palavras chave (utilizando para o tal o campo de buscas) ou por tipos de comidas, na barra superior. Dentre as opções estão por exemplo comida Asiática, Hamburgueres, Italiana, Sorvetes entre outros.
+Ao clicar em "Comprar" o usuário automaticamente adiciona o produto ao carrinho. O usuário pode adicionar quantos produtos quiser.
 </br>
-Clicando sobre a imagem de um restaurante no feed, o usuário é redicionado para a página de detalhes detes, onde são listados todos os alimentos fornecidos pelo estabelecimento, podendo o usuário adicionar e remover produtos para o seu carrinho.
-</br>
-Na parte inferior existe um menu, onde o usuário pode acessar a página de carrinho e verificar todos os itens que adicionou ao mesmo, valor do frente e total da compra, além de selecionar um método de pagamento. Também é possível remover itens da lista. Ao clicar em confirmar, será exibida uma mensagem de pedido realizado com sucesso.
-</br>
-No menu inferior, o usuário pode clicar no ícone de perfil e então será redirecionado para a página de perfil do usuário, onde pode alterar seus dados cadastrais e de endereço, e ainda verificar o seu histórico de pedidos. No canto superior direito da página, é possível também fazer o logout da conta, sendo então redirecionado para a página de login.
+Na parte direita da tela está o carrinho, que possui as informações dos produtos que estão adicionados e também o valor total da compra. O usuário também tem a opção de excluir os produtos do carrinho.
 
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
