@@ -13,6 +13,8 @@ No lado esquerdo o usuário pode filtrar os produtos por preço mínimo, preço 
 Ao clicar em "Comprar" o usuário automaticamente adiciona o produto ao carrinho. O usuário pode adicionar quantos produtos quiser.
 </br>
 Na parte direita da tela está o carrinho, que possui as informações dos produtos que estão adicionados e também o valor total da compra. O usuário também tem a opção de excluir os produtos do carrinho.
+</br>
+Na parte inferior está o rodapé, que possui algumas informações, inclusive ícones clicáveis das redes.
 
 # `Instalando e rodando o projeto`
 Fazer o clone do projeto:
