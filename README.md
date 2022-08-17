@@ -8,7 +8,7 @@ E-commerce ShirtX
 O Projeto LabEcommerce foi desenvolvido como uma atividade do dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em um E-commerce de vendas de camisas e camisetas com a temática de astronomia, com as opções de filtragem por valor mínimo e máximo, além de filtragem por nome. O site possui também a opção de adicionar produtos ao carrinho de compras, onde é possível excluir os itens e também é apresentado o valor total destes.
 
 # `Modo de usar`
-No lado esquerdo o usuário pode filtrar os produtos por preço mínimo, preço máximo e também buscar por nome. Existe também a opção de order os produtos por order crescente ou decrescente de preço.
+No lado esquerdo o usuário pode filtrar os produtos por preço mínimo, preço máximo e também buscar por nome. Existe também a opção de ordenar os produtos por ordem crescente ou decrescente de preço.
 </br>
 Ao clicar em "Comprar" o usuário automaticamente adiciona o produto ao carrinho. O usuário pode adicionar quantos produtos quiser.
 </br>
