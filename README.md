@@ -5,6 +5,7 @@ E-commerce ShirtX
 [Clique aqui!](https://shirtx-alves.surge.sh/)
 
 # `Descrição`
+[Projeto desenvolvido na semana 7 do curso Labenu]. </br>
 O Projeto LabEcommerce foi desenvolvido como uma atividade do dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em um E-commerce de vendas de camisas e camisetas com a temática de astronomia, com as opções de filtragem por valor mínimo e máximo, além de filtragem por nome. O site possui também a opção de adicionar produtos ao carrinho de compras, onde é possível excluir os itens e também é apresentado o valor total destes.
 
 # `Modo de usar`
